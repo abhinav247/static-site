@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "abhinav247/static",
+    "Name": "abhinav247/static:v1",
     "Update": "true"
   },
   "Ports": [
